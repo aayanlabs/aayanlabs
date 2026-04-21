@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=radical&text=Aayan%20Malik&section=header&textBg=false" />
-</p>
-
 <h1 align="center">aayanlabs</h1>
 <p align="center">AI • ML • Systems</p>
 
@@ -13,8 +9,8 @@
 
 ## About
 
-I focus on building systems that solve real problems — not just demos.
-Clean interfaces. Efficient backends. Practical AI.
+I build systems that solve real problems — not just demos.
+Focused on practical AI, clean interfaces, and efficient backends.
 
 ---
 
