@@ -2,40 +2,39 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=radical&text=Aayan%20Malik&section=header&textBg=false" />
 </p>
 
-<h1 align="center">⚡ Aayan Malik</h1>
-<h3 align="center">Building things that feel illegal</h3>
+<h1 align="center">aayanlabs</h1>
+<p align="center">AI • ML • Systems</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Builder;I+design+systems+not+just+apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems;Turning+ideas+into+products;Designing+what+should+exist" />
 </p>
 
 ---
 
-## 🧠 About
+## About
 
-* ⚡ I build high-impact products, not just projects
-* 🧬 Focused on UI/UX + powerful backend systems
-* 🚀 Turning ideas into scalable tools
+I focus on building systems that solve real problems — not just demos.
+Clean interfaces. Efficient backends. Practical AI.
 
 ---
 
-## 🔥 Stack
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,postgres,tailwind,react,git,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,nodejs,postgres,tailwind,react,git" />
 </p>
 
 ---
 
-## 🤝 Open to Collaborations
+## Collaborations
 
 <p align="center">
-  🚀 Always open to building something insane with the right people  
+Open to working on meaningful ideas — especially in AI/ML, automation, and real-world systems.
 </p>
 
 ---
 
-## 📊 Stats
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayanlabs&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -45,7 +44,7 @@
 
 ---
 
-## 🧬 Contribution Graph
+## Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -53,7 +52,7 @@
 
 ---
 
-## 🌐 Connect
+## Links
 
 <p align="center">
   <a href="https://aayanmalik.me">Portfolio</a> •
@@ -63,5 +62,5 @@
 ---
 
 <p align="center">
-  ⚡ Clean. Sharp. Different.
+built with intent • not noise
 </p>
