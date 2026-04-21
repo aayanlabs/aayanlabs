@@ -1,16 +1,20 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aayanlabs/aayanlabs/main/banner.png" />
+</p>
+
 <h1 align="center">aayanlabs</h1>
 <p align="center">AI • ML • Systems</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems;Turning+ideas+into+products;Designing+what+should+exist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems;Designing+real-world+AI;Turning+ideas+into+products" />
 </p>
 
 ---
 
 ## About
 
-I build systems that solve real problems — not just demos.
-Focused on practical AI, clean interfaces, and efficient backends.
+I focus on building systems that actually get used.
+AI where it matters. Clean design where it counts.
 
 ---
 
@@ -25,7 +29,7 @@ Focused on practical AI, clean interfaces, and efficient backends.
 ## Collaborations
 
 <p align="center">
-Open to working on meaningful ideas — especially in AI/ML, automation, and real-world systems.
+Open to building serious AI/ML systems and automation products.
 </p>
 
 ---
@@ -34,16 +38,6 @@ Open to working on meaningful ideas — especially in AI/ML, automation, and rea
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayanlabs&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayanlabs&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -58,5 +52,5 @@ Open to working on meaningful ideas — especially in AI/ML, automation, and rea
 ---
 
 <p align="center">
-built with intent • not noise
+precision over noise
 </p>
