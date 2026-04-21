@@ -15,7 +15,7 @@
 
 ## About
 
-I build systems that solve real problems — not just demos.
+I build systems that solve real problems not just demos.
 Focused on practical AI, clean interfaces, and efficient backends.
 
 ---
